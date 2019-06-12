@@ -5,5 +5,5 @@ def collection(array)
     i += 1
   end
   arguments.split(" ").first
-  end  
+  end
 end
