@@ -6,4 +6,3 @@ def collection(array)
   end
   arguments.split(" ").first
   end
-end
