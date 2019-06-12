@@ -4,5 +4,5 @@ def collection(array)
     yield(arguments[i])
     i += 1
   end
-  arguments.split(" ").first
+  arguments.upcase
   end
